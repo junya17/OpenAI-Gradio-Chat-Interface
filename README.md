@@ -1,4 +1,4 @@
-# README（英語版）
+# README
 
 ## Overview
 This project integrates OpenAI's GPT models with a Gradio interface to create an interactive chat application. Users can interact with the chatbot, specifying different models, temperature settings, and maximum token limits.
