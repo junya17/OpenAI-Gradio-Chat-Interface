@@ -11,7 +11,7 @@ This project integrates OpenAI's GPT models with a Gradio interface to create an
 ## Setup Instructions
 1. Install the required libraries: `pip install openai gradio`.
 2. Clone this repository to your local machine.
-3. Run the script: `python script_name.py`.
+3. Run the script: `python app.py`.
 
 ## How to Use
 1. Open the provided URL in a web browser after running the script.
